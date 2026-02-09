@@ -19,7 +19,7 @@ iMac15,1 & Macmini7,1 = BigSur -> Montorey<br>
 
 ## ✅ What's Working?
 * [x] HD Graphics 4400<br>
-* [x] Audio [alcid=15]<br>
+* [x] Audio [alcid=11]<br>
 * [x] Ethernet<br>
 * [x] PowerOff / Reboot<br>
 * [x] USB Ports (Mapped)<br>
